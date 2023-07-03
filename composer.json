@@ -1,0 +1,28 @@
+{
+    "name": "evaldobarbosa/swagger-from-route",
+    "description": "Get all of your routes and create a openapi specification files",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SwaggerFromRoute\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evaldo Barbosa",
+            "email": "evaldobarbosa@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^6.3",
+        "symfony/filesystem": "^6.3"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SwaggerFromRoute\\Providers\\Provider"
+            ]
+        }
+    }
+}
