@@ -20,7 +20,7 @@ First create a repositories section in your composer.json like this:
 }
 
 ```sh
-composer require evaldobarbosa/laravel-swagger-from-route
+composer require evaldobarbosa/laravel-swagger-from-route --dev
 ```
 
 # Usage
