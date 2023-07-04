@@ -1,5 +1,5 @@
 {
-    "name": "evaldobarbosa/swagger-from-route",
+    "name": "evaldobarbosa/laravel-swagger-from-route",
     "description": "Get all of your routes and create a openapi specification files",
     "type": "library",
     "license": "MIT",
