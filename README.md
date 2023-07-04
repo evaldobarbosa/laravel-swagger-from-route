@@ -41,4 +41,4 @@ For while you can use this package like this:
 
 - [ ] create a artisan command to run this code block and generate all the files;
 - [ ] join all files to create only on specification file;
-- [ ] 
+- [ ] resource route
