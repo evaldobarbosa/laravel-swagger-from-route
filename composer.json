@@ -24,5 +24,6 @@
                 "SwaggerFromRoute\\Providers\\Provider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
